@@ -11,6 +11,8 @@
         <li><a href="content/redes.html">Lista de Redes Sociales</a></li>
         <li><a href="content/contacto.html">Contacto</a></li>
     </ul>
+	<h2>Mi Imagen</h2>
+	<img src="imagen.jpg" alt="Descripción de la imagen" />
 </body>
 </html>
 
